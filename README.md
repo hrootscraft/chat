@@ -9,3 +9,5 @@ Other users (here, Steve and Paula) who you might want in to join the chat must 
 - Autroscroll to the bottom
 - Share location
 - Profanity block
+
+[Explore](https://brb-node-chat-app.herokuapp.com/)
